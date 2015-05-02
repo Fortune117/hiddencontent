@@ -24,6 +24,12 @@ resource.AddFile( "materials/models/player/hidden_torso_c.vmt")
 resource.AddFile( "materials/models/player/hidden_torso_d.vmt")
 resource.AddFile( "materials/models/player/Hidden_torso_normal.vmt")
 resource.AddFile( "materials/models/weapons/v_hands/HiddenHands.vmt")
+
+resource.AddFile( "materials/sprites/aura.vmt")
+resource.AddFile( "materials/sprites/hdn_crosshairs.vmt")
+resource.AddFile( "materials/sprites/hdn_crosshairs_tluc.vmt")
+resource.AddFile( "materials/sprites/laserglow1.vmt")
+
 resource.AddFile( "models/player/hidden.mdl")
 
 resource.AddFile( "materials/models/weapons/v_hands/HiddenHands_Normal.vtf")
@@ -31,7 +37,7 @@ resource.AddFile( "materials/models/weapons/v_hands/HiddenHands_Normal.vtf")
 AddDir( "materials/models/weapons/v_kabar" )
 AddDir( "materials/models/weapons/v_pipebomb" )
 AddDir( "materials/models/weapons/w_models/w_pipebomb" )
-AddDir( "materials/sprites" )
+
 
 AddDir( "models/weapons/kabar" )
 AddDir( "models/weapons/pipe" )
