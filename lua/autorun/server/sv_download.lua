@@ -27,7 +27,7 @@ resource.AddFile( "materials/models/player/hidden_torso_c.vmt")
 resource.AddFile( "materials/models/player/hidden_torso_d.vmt")
 resource.AddFile( "materials/models/player/Hidden_torso_normal.vmt")
 resource.AddFile( "materials/models/weapons/v_hands/HiddenHands.vmt")
-resource.AddFile( "materials/models/weapons/v_hands/HiddenHands_Normal.vtf")
+resource.AddFile( "materials/models/weapons/v_hands/HiddenHands_Normal.vtf") 
 
 resource.AddFile( "materials/sprites/aura.vmt")
 resource.AddFile( "materials/sprites/hdn_crosshairs.vmt")
