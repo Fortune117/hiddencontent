@@ -13,6 +13,7 @@ end
 
 resource.AddFile( "materials/hud/hvision.vmt")
 resource.AddFile( "materials/hud/hvision.vtf")
+resource.AddFile( "materials/hud/hvision_dx6.vmt")
 
 resource.AddSingleFile( "materials/models/player/Hidden_head.vmt")
 resource.AddSingleFile( "materials/models/player/Hidden_Head.vtf")
