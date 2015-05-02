@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"				HiddenContent
+	"version"			"1"
+	"up_date"			"00/00/00"
+	"author_name"			"Fortune"
+	"override"			"0"
+}
