@@ -12,8 +12,10 @@ function AddDir(dir) // recursively adds everything in a directory to be downloa
 end
 
 resource.AddFile( "materials/hud/hvision.vmt")
+resource.AddFile( "materials/hud/hvision.vtf")
 
-resource.AddFile( "materials/models/player/Hidden_head.vmt")
+resource.AddSingleFile( "materials/models/player/Hidden_head.vmt")
+resource.AddSingleFile( "materials/models/player/Hidden_Head.vtf")
 resource.AddFile( "materials/models/player/hidden_head_b.vmt")
 resource.AddFile( "materials/models/player/hidden_head_c.vmt")
 resource.AddFile( "materials/models/player/hidden_head_d.vmt")
