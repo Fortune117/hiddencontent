@@ -1,0 +1,6 @@
+"UnlitGeneric" 
+{
+	"$Translucent" "1"
+	"$basetexture" "hud/hdn_staminabar" 
+	"$ignorez"	"1"
+} 

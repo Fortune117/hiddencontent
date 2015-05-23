@@ -35,6 +35,12 @@ resource.AddFile( "materials/sprites/hdn_crosshairs.vmt")
 resource.AddFile( "materials/sprites/hdn_crosshairs_tluc.vmt")
 resource.AddFile( "materials/sprites/laserglow1.vmt")
 
+resource.AddFile( "materials/hud/hdn_hdnhealth.vmt" )
+resource.AddFile( "materials/hud/hdn_staminabar.vmt" )
+resource.AddFile( "materials/hud/hdn_staminaBG.vmt" )
+resource.AddFile( "materials/hud/aura.vmt" )
+resource.AddFile( "resource/fonts/OratorStd.otf" )
+
 resource.AddFile( "models/player/hidden.mdl")
 resource.AddFile( "models/generic/gen_ammo_bag.mdl" )
 
