@@ -35,6 +35,10 @@ resource.AddFile( "materials/sprites/hdn_crosshairs.vmt")
 resource.AddFile( "materials/sprites/hdn_crosshairs_tluc.vmt")
 resource.AddFile( "materials/sprites/laserglow1.vmt")
 
+resource.AddFile( "materials/Decals/Blood1.vmt")
+resource.AddFile( "materials/Decals/blood1_subrect.vmt")
+resource.AddFile( "materials/Decals/blood1splashmodel.vmt")
+
 resource.AddFile( "materials/hud/hdn_hdnhealth.vmt" )
 resource.AddFile( "materials/hud/hdn_staminabar.vmt" )
 resource.AddFile( "materials/hud/hdn_staminaBG.vmt" )
